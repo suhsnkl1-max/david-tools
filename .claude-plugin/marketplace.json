@@ -1,0 +1,12 @@
+{
+  "name": "david-tools",
+  "description": "כלים ללקוחות הליווי: סקאוט לרעיונות תוכן, ובהמשך תזמון פוסטים",
+  "owner": { "name": "David" },
+  "plugins": [
+    {
+      "name": "content-scout",
+      "source": "./plugins/content-scout",
+      "description": "סורק אינסטגרם, טיקטוק ושורטס דרך הכרום שלך ומביא רעיונות לתוכן שעבדו"
+    }
+  ]
+}
