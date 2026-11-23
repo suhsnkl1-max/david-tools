@@ -6,12 +6,12 @@
 
 פותחים את קלוד קוד בתיקייה שלך וכותבים לו:
 
-> תתקין לי את הסקאוט מ-github.com/OWNER/david-tools
+> תתקין לי את הסקאוט מ-github.com/suhsnkl1-max/david-tools
 
 או מדביקים את השורה הזו:
 
 ```
-/plugin install content-scout --marketplace OWNER/david-tools
+/plugin install content-scout --marketplace suhsnkl1-max/david-tools
 ```
 
 זהו. הוא מתקין לבד. בפעם הראשונה שתכתבי "תסרוק לי רעיונות" הוא יעזור לך לחבר את הכרום.
